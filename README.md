@@ -33,7 +33,6 @@ Export Data : Export dataframe to .csv file and create an sqlschema export recip
 ## Organization
 In repositoy of project you find:
 
-- output(recipe.csv, recipe.sql)
 - my_README.md
 - recipe_scraping.ipynb.ipynb (project main)
 - scraper.py
@@ -42,5 +41,4 @@ In repositoy of project you find:
 
 ## Links 
 
-[Repository](https://github.com/mahshidAM/data-ft-par-labs/tree/main/Projects/Week-3)  
-[Slides](https://docs.google.com/presentation/d/106trxUFulapPUJL-i_yZJb2qCaAK1XrjUUM42ZMmHIg/edit#slide=id.gadcb3388d0_0_33)  
+[Repository](https://github.com/mahshidAM/data-ft-par-labs/tree/main/Projects/Week-3)   
